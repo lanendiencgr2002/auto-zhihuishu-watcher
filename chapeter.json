@@ -1,0 +1,1357 @@
+{
+    "data": {
+        "course_id": 4356496,
+        "course_chapter": [
+            {
+                "section_leaf_list": [
+                    {
+                        "order": 0,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527357,
+                                "section_id": 10547660,
+                                "leaf_type": 0,
+                                "id": 52988389,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989062
+                            }
+                        ],
+                        "chapter_id": 12527357,
+                        "id": 10547660,
+                        "name": "\u8bfe\u7a0b\u4ecb\u7ecd"
+                    },
+                    {
+                        "name": "\u63a8\u8350\u4e66\u76ee",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527357,
+                        "section_id": null,
+                        "leaf_type": 3,
+                        "id": 52988390,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 1,
+                        "leafinfo_id": 52989063
+                    },
+                    {
+                        "name": "\u96c6\u4e2d\u7b54\u7591\u5e16",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527357,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988391,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 2,
+                        "leafinfo_id": 52989064
+                    }
+                ],
+                "order": 0,
+                "id": 12527357,
+                "name": "\u8bfe\u7a0b\u4ecb\u7ecd"
+            },
+            {
+                "section_leaf_list": [
+                    {
+                        "order": 0,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527358,
+                                "section_id": 10547661,
+                                "leaf_type": 0,
+                                "id": 52988392,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989065
+                            }
+                        ],
+                        "chapter_id": 12527358,
+                        "id": 10547661,
+                        "name": "1.1 General Instructions and Advices"
+                    },
+                    {
+                        "name": "Lecture 1: 1.1",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527358,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988396,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 1,
+                        "leafinfo_id": 52989069
+                    },
+                    {
+                        "order": 2,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527358,
+                                "section_id": 10547662,
+                                "leaf_type": 0,
+                                "id": 52988393,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989066
+                            }
+                        ],
+                        "chapter_id": 12527358,
+                        "id": 10547662,
+                        "name": "1.2 Content of A Research Paper"
+                    },
+                    {
+                        "name": "Lecture 1: 1.2",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527358,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988397,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 3,
+                        "leafinfo_id": 52989070
+                    },
+                    {
+                        "order": 4,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527358,
+                                "section_id": 10547663,
+                                "leaf_type": 0,
+                                "id": 52988394,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989067
+                            }
+                        ],
+                        "chapter_id": 12527358,
+                        "id": 10547663,
+                        "name": "1.3 The Procedure to Submit A Paper"
+                    },
+                    {
+                        "name": "Lecture 1: 1.3",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527358,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988398,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 5,
+                        "leafinfo_id": 52989071
+                    },
+                    {
+                        "order": 6,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527358,
+                                "section_id": 10547664,
+                                "leaf_type": 0,
+                                "id": 52988395,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989068
+                            }
+                        ],
+                        "chapter_id": 12527358,
+                        "id": 10547664,
+                        "name": "1.4. Review Process and Response"
+                    },
+                    {
+                        "name": "Lecture 1: 1.4",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527358,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988399,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 7,
+                        "leafinfo_id": 52989072
+                    },
+                    {
+                        "name": "Lecture  1",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527358,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988400,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 8,
+                        "leafinfo_id": 52989073
+                    },
+                    {
+                        "name": "Writing Scientific Paper in English",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527358,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988401,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 9,
+                        "leafinfo_id": 52989074
+                    },
+                    {
+                        "name": "Writing Scientific Paper in English",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527358,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988402,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 10,
+                        "leafinfo_id": 52989075
+                    }
+                ],
+                "order": 1,
+                "id": 12527358,
+                "name": "Lecture 1: Writing Scientific Paper in English"
+            },
+            {
+                "section_leaf_list": [
+                    {
+                        "order": 0,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527359,
+                                "section_id": 10547665,
+                                "leaf_type": 0,
+                                "id": 52988403,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989076
+                            }
+                        ],
+                        "chapter_id": 12527359,
+                        "id": 10547665,
+                        "name": "2.1 Importance and General Advices"
+                    },
+                    {
+                        "name": "Lecture 2: 2.1",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527359,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988407,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 1,
+                        "leafinfo_id": 52989080
+                    },
+                    {
+                        "order": 2,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527359,
+                                "section_id": 10547666,
+                                "leaf_type": 0,
+                                "id": 52988404,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989078
+                            }
+                        ],
+                        "chapter_id": 12527359,
+                        "id": 10547666,
+                        "name": "2.2 Instructions on Preparing Slides"
+                    },
+                    {
+                        "name": "Lecture 2: 2.2",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527359,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988408,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 3,
+                        "leafinfo_id": 52989081
+                    },
+                    {
+                        "order": 4,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527359,
+                                "section_id": 10547667,
+                                "leaf_type": 0,
+                                "id": 52988406,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989079
+                            }
+                        ],
+                        "chapter_id": 12527359,
+                        "id": 10547667,
+                        "name": "2.3 Instructions on Making Presentation"
+                    },
+                    {
+                        "name": "Lecture 2: 2.3",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527359,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988409,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 5,
+                        "leafinfo_id": 52989082
+                    },
+                    {
+                        "name": "Discussion  Topic 2",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527359,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988410,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 6,
+                        "leafinfo_id": 52989083
+                    },
+                    {
+                        "name": "Discussion  Topic 2",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527359,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988411,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 7,
+                        "leafinfo_id": 52989084
+                    },
+                    {
+                        "name": "Discussion  Topic 2",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527359,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988412,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 8,
+                        "leafinfo_id": 52989085
+                    }
+                ],
+                "order": 2,
+                "id": 12527359,
+                "name": "Lecture 2: Making Presentations in English"
+            },
+            {
+                "section_leaf_list": [
+                    {
+                        "order": 0,
+                        "leaf_list": [
+                            {
+                                "name": "3.1 Share credit and cite references",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527360,
+                                "section_id": 10547668,
+                                "leaf_type": 0,
+                                "id": 52988413,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989086
+                            }
+                        ],
+                        "chapter_id": 12527360,
+                        "id": 10547668,
+                        "name": "3.1 Share Credit and Cite References"
+                    },
+                    {
+                        "name": "Lecture 3 \uff1a3.1",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527360,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988418,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 1,
+                        "leafinfo_id": 52989091
+                    },
+                    {
+                        "order": 2,
+                        "leaf_list": [
+                            {
+                                "name": "3.2 Attend academic conferences",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527360,
+                                "section_id": 10547669,
+                                "leaf_type": 0,
+                                "id": 52988414,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989087
+                            }
+                        ],
+                        "chapter_id": 12527360,
+                        "id": 10547669,
+                        "name": "3.2 Attend Academic Conferences"
+                    },
+                    {
+                        "name": "Lecture 3 \uff1a3.2",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527360,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988419,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 3,
+                        "leafinfo_id": 52989092
+                    },
+                    {
+                        "order": 4,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527360,
+                                "section_id": 10547670,
+                                "leaf_type": 0,
+                                "id": 52988415,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989088
+                            }
+                        ],
+                        "chapter_id": 12527360,
+                        "id": 10547670,
+                        "name": "3.3 How to Serve as A Reviewer"
+                    },
+                    {
+                        "name": "Lecture 3 \uff1a3.3",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527360,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988420,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 5,
+                        "leafinfo_id": 52989093
+                    },
+                    {
+                        "order": 6,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527360,
+                                "section_id": 10547671,
+                                "leaf_type": 0,
+                                "id": 52988416,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989089
+                            }
+                        ],
+                        "chapter_id": 12527360,
+                        "id": 10547671,
+                        "name": "3.4 How to Serve as An Associate Editor"
+                    },
+                    {
+                        "name": "Lecture 3 \uff1a3.4",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527360,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988421,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 7,
+                        "leafinfo_id": 52989094
+                    },
+                    {
+                        "order": 8,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527360,
+                                "section_id": 10547672,
+                                "leaf_type": 0,
+                                "id": 52988417,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989090
+                            }
+                        ],
+                        "chapter_id": 12527360,
+                        "id": 10547672,
+                        "name": "3.5 How to Serve as A Session Chair"
+                    },
+                    {
+                        "name": "Lecture 3 \uff1a3.5",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527360,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988422,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 9,
+                        "leafinfo_id": 52989095
+                    },
+                    {
+                        "name": "Discussion  Topic 3",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527360,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988423,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 10,
+                        "leafinfo_id": 52989096
+                    },
+                    {
+                        "name": "Discussion  Topic 3",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527360,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988424,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 11,
+                        "leafinfo_id": 52989097
+                    }
+                ],
+                "order": 3,
+                "id": 12527360,
+                "name": "Lecture 3 \uff1aShare Credit and Cite References & Attend Academic"
+            },
+            {
+                "section_leaf_list": [
+                    {
+                        "order": 0,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527361,
+                                "section_id": 10547673,
+                                "leaf_type": 0,
+                                "id": 52988425,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989098
+                            }
+                        ],
+                        "chapter_id": 12527361,
+                        "id": 10547673,
+                        "name": "4.1 Choose Research Topics"
+                    },
+                    {
+                        "name": "Leture 4: 4.1",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527361,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988427,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 1,
+                        "leafinfo_id": 52989100
+                    },
+                    {
+                        "order": 2,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527361,
+                                "section_id": 10547674,
+                                "leaf_type": 0,
+                                "id": 52988426,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989099
+                            }
+                        ],
+                        "chapter_id": 12527361,
+                        "id": 10547674,
+                        "name": "4.2 Apply Research Funding and Write Proposals"
+                    },
+                    {
+                        "name": "Leture 4: 4.2",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527361,
+                        "section_id": null,
+                        "leaf_type": 6,
+                        "id": 52988428,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 3,
+                        "leafinfo_id": 52989101
+                    },
+                    {
+                        "name": "Discussion  Topic 4",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527361,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988429,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 4,
+                        "leafinfo_id": 52989102
+                    },
+                    {
+                        "name": "Discussion  Topic 4",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527361,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988430,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 5,
+                        "leafinfo_id": 52989103
+                    },
+                    {
+                        "name": "Discussion  Topic 4",
+                        "is_locked": false,
+                        "start_time": 1727243576000,
+                        "chapter_id": 12527361,
+                        "section_id": null,
+                        "leaf_type": 4,
+                        "id": 52988431,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 6,
+                        "leafinfo_id": 52989104
+                    }
+                ],
+                "order": 4,
+                "id": 12527361,
+                "name": "Leture 4: Choose Research Topics and Apply Research Funding and Write Proposals"
+            },
+            {
+                "section_leaf_list": [
+                    {
+                        "order": 0,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527362,
+                                "section_id": 10547675,
+                                "leaf_type": 0,
+                                "id": 52988432,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989105
+                            }
+                        ],
+                        "chapter_id": 12527362,
+                        "id": 10547675,
+                        "name": "5.0 Introduction to this lecture"
+                    },
+                    {
+                        "order": 1,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527362,
+                                "section_id": 10547676,
+                                "leaf_type": 0,
+                                "id": 52988433,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989106
+                            }
+                        ],
+                        "chapter_id": 12527362,
+                        "id": 10547676,
+                        "name": "5.1 Aniruddha Bhattacharjya (Dept. Electronic Engineering)"
+                    },
+                    {
+                        "order": 2,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527362,
+                                "section_id": 10547677,
+                                "leaf_type": 0,
+                                "id": 52988434,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989107
+                            }
+                        ],
+                        "chapter_id": 12527362,
+                        "id": 10547677,
+                        "name": "5.2 Charlie Hu (Dept. Civil Engineering)"
+                    },
+                    {
+                        "order": 3,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527362,
+                                "section_id": 10547678,
+                                "leaf_type": 0,
+                                "id": 52988435,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989108
+                            }
+                        ],
+                        "chapter_id": 12527362,
+                        "id": 10547678,
+                        "name": "5.3 Bozhao Fan (Dept. Engineering Machanics)"
+                    },
+                    {
+                        "order": 4,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527362,
+                                "section_id": 10547679,
+                                "leaf_type": 0,
+                                "id": 52988436,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989109
+                            }
+                        ],
+                        "chapter_id": 12527362,
+                        "id": 10547679,
+                        "name": "5.4 Yanran Yang (Dept.  Nuclear and New Energy Technology)"
+                    },
+                    {
+                        "order": 5,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527362,
+                                "section_id": 10547680,
+                                "leaf_type": 0,
+                                "id": 52988437,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989110
+                            }
+                        ],
+                        "chapter_id": 12527362,
+                        "id": 10547680,
+                        "name": "5.5 Chen Hou (Dept. Automation)"
+                    },
+                    {
+                        "order": 6,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527362,
+                                "section_id": 10547681,
+                                "leaf_type": 0,
+                                "id": 52988438,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989111
+                            }
+                        ],
+                        "chapter_id": 12527362,
+                        "id": 10547681,
+                        "name": "5.6 Syed Ali (Dept. Computer Science and Technology)"
+                    },
+                    {
+                        "order": 7,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527362,
+                                "section_id": 10547682,
+                                "leaf_type": 0,
+                                "id": 52988439,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989112
+                            }
+                        ],
+                        "chapter_id": 12527362,
+                        "id": 10547682,
+                        "name": "5.7 Summary by Prof. Guan"
+                    }
+                ],
+                "order": 5,
+                "id": 12527362,
+                "name": "Lecture 5: PPT Presentation By Students"
+            },
+            {
+                "section_leaf_list": [
+                    {
+                        "order": 0,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547683,
+                                "leaf_type": 0,
+                                "id": 52988440,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989113
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547683,
+                        "name": "6.1.1 Lecture 1 - Part 1"
+                    },
+                    {
+                        "order": 1,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547684,
+                                "leaf_type": 0,
+                                "id": 52988441,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989114
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547684,
+                        "name": "6.1.2 Lecture 1 - Part 2"
+                    },
+                    {
+                        "order": 2,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547685,
+                                "leaf_type": 0,
+                                "id": 52988442,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989115
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547685,
+                        "name": "6.1.3 Lecture 1 - Part 3"
+                    },
+                    {
+                        "order": 3,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547686,
+                                "leaf_type": 0,
+                                "id": 52988443,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989116
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547686,
+                        "name": "6.2.1 Lecture 2 - Part 1"
+                    },
+                    {
+                        "order": 4,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547687,
+                                "leaf_type": 0,
+                                "id": 52988444,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989117
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547687,
+                        "name": "6.2.2 Lecture 2 - Part 2"
+                    },
+                    {
+                        "order": 5,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547688,
+                                "leaf_type": 0,
+                                "id": 52988445,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989118
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547688,
+                        "name": "6.2.3 Lecture 2 - Part 3"
+                    },
+                    {
+                        "order": 6,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547689,
+                                "leaf_type": 0,
+                                "id": 52988446,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989119
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547689,
+                        "name": "6.3.1 Lecture 3 - Part 1"
+                    },
+                    {
+                        "order": 7,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547690,
+                                "leaf_type": 0,
+                                "id": 52988447,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989120
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547690,
+                        "name": "6.3.2 Lecture 3 - Part 2"
+                    },
+                    {
+                        "order": 8,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547691,
+                                "leaf_type": 0,
+                                "id": 52988448,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989121
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547691,
+                        "name": "6.3.3 Lecture 3 - Part 3"
+                    },
+                    {
+                        "order": 9,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547692,
+                                "leaf_type": 0,
+                                "id": 52988449,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989122
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547692,
+                        "name": "6.4.1 Lecture 4 - Part 1"
+                    },
+                    {
+                        "order": 10,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547693,
+                                "leaf_type": 0,
+                                "id": 52988450,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989123
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547693,
+                        "name": "6.4.2 Lecture 4 - Part 2"
+                    },
+                    {
+                        "order": 11,
+                        "leaf_list": [
+                            {
+                                "name": "Video",
+                                "is_locked": false,
+                                "start_time": 1727243576000,
+                                "chapter_id": 12527363,
+                                "section_id": 10547694,
+                                "leaf_type": 0,
+                                "id": 52988451,
+                                "is_show": true,
+                                "end_time": 0,
+                                "score_deadline": 1735487999000,
+                                "is_score": true,
+                                "is_assessed": false,
+                                "order": 0,
+                                "leafinfo_id": 52989124
+                            }
+                        ],
+                        "chapter_id": 12527363,
+                        "id": 10547694,
+                        "name": "6.4.3 Lecture 4 - Part 3"
+                    }
+                ],
+                "order": 6,
+                "id": 12527363,
+                "name": "Lecture 6: Classroom Memoir"
+            },
+            {
+                "section_leaf_list": [
+                    {
+                        "exam": {
+                            "online_proctor": 0,
+                            "is_offline": false
+                        },
+                        "name": "Final Exams",
+                        "is_locked": false,
+                        "start_time": 1728609455000,
+                        "chapter_id": 12527364,
+                        "section_id": null,
+                        "leaf_type": 5,
+                        "id": 52988452,
+                        "is_show": true,
+                        "end_time": 0,
+                        "score_deadline": 1735487999000,
+                        "is_score": true,
+                        "is_assessed": false,
+                        "order": 0,
+                        "leafinfo_id": 52989125
+                    }
+                ],
+                "order": 7,
+                "id": 12527364,
+                "name": "Final Exams"
+            }
+        ],
+        "course_name": "\u82f1\u6587\u79d1\u6280\u8bba\u6587\u5199\u4f5c\u4e0e\u5b66\u672f\u62a5\u544a"
+    },
+    "success": true
+}

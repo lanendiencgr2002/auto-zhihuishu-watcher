@@ -1,0 +1,7 @@
+<div data-v-ba776a48="" class="studentCol el-col el-col-24 el-col-xs-8 el-col-sm-8 el-col-md-8 el-col-lg-8 el-col-xl-6"><div data-v-ba776a48="" class="lesson-cardS"><div class="el-card box-card is-hover-shadow style2"><!----><div class="el-card__body"><div class="left"><div class="top"><h1>
+            科研伦理与学术规范
+          </h1> <span class="hidden"></span> <span class="hidden2"></span></div> <div class="bottom"><span class="avatorContainer"><div data-v-72f81d34="" class="avator__component"><div data-v-72f81d34="" class="avatorStyle" style="width: 20px; height: 20px;"><img data-v-72f81d34="" src="https://qn-sy.yuketang.cn/new_defaultuser.png" alt="头像" style="width: 20px; height: 20px;"></div></div> <span class="teacherName">
+              培养办
+            </span></span> <span><svg aria-hidden="true" class="icon"><use xlink:href="#icon-banji"></use></svg> <span class="className">
+              2024秋-科研伦理与学术规范1班
+            </span></span></div></div> <div class="right"><div class="el-dropdown"><span class="el-dropdown-link el-dropdown-selfdefine " aria-haspopup="list" aria-controls="dropdown-menu-5490" role="button" tabindex="0"><svg aria-hidden="true" class="icon"><use xlink:href="#icon-gengduo"></use></svg></span> </div></div></div></div> <!----> <div class="mark"><img src="https://fe-static-yuketang.yuketang.cn/fe/static/web/1.1.734/img/mark2.e87d650..png" alt="mark"></div></div></div>
